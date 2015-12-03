@@ -9,7 +9,7 @@
 
 namespace PHPDoubleLinkedList;
 
-use Model;
+use PHPDoubleLinkedList\Model AS Model;
 
 class View {
 
